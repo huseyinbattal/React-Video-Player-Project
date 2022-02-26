@@ -7,3 +7,4 @@ export class Video extends React.Component {
     );
   }
 }
+// autoPlay özelliği videonun otomatik olarak başlamasını sağlar.
